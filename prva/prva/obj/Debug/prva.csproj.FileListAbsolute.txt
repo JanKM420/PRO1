@@ -1,0 +1,8 @@
+D:\PRO1\prva\prva\bin\Debug\prva.exe.config
+D:\PRO1\prva\prva\bin\Debug\prva.exe
+D:\PRO1\prva\prva\bin\Debug\prva.pdb
+D:\PRO1\prva\prva\obj\Debug\prva.csproj.AssemblyReference.cache
+D:\PRO1\prva\prva\obj\Debug\prva.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\prva\prva\obj\Debug\prva.csproj.CoreCompileInputs.cache
+D:\PRO1\prva\prva\obj\Debug\prva.exe
+D:\PRO1\prva\prva\obj\Debug\prva.pdb
