@@ -1,0 +1,16 @@
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo.csproj.AssemblyReference.cache
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\MainWindow.g.cs
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\App.g.cs
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo_MarkupCompile.cache
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo_MarkupCompile.lref
+D:\PRO1\Napad na zemljo\Napad na zemljo\bin\Debug\Napad na zemljo.exe.config
+D:\PRO1\Napad na zemljo\Napad na zemljo\bin\Debug\Napad na zemljo.exe
+D:\PRO1\Napad na zemljo\Napad na zemljo\bin\Debug\Napad na zemljo.pdb
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\MainWindow.baml
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo.g.resources
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad_na_zemljo.Properties.Resources.resources
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo.csproj.GenerateResource.cache
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo.csproj.CoreCompileInputs.cache
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo.exe
+D:\PRO1\Napad na zemljo\Napad na zemljo\obj\Debug\Napad na zemljo.pdb
