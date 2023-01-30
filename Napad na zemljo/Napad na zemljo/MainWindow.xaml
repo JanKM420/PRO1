@@ -36,7 +36,7 @@
             </TextBox.RenderTransform>
         </TextBox>
         <Button x:Name="BtnStart" Content="Start" Grid.Row="2" Margin="10,32,10,34" Click="Btn_Start_Click"/>
-        <Canvas Grid.Row="1" Grid.ColumnSpan="8">
+        <Canvas x:Name="igralniDel" Grid.Row="1" Grid.ColumnSpan="8">
             <Canvas.Background>
                 <RadialGradientBrush>
                     <GradientStop Color="Black" Offset="1"/>
@@ -65,9 +65,8 @@
                 </Rectangle.RenderTransform>
             </Rectangle>
             <ContentControl Template="{DynamicResource PredlogaSovražnika}" Content="ContentControl"/>
-            <TextBlock x:Name="tblGameOver" TextWrapping="Wrap" FontFamily="Arial Black" FontSize="72" FontWeight="Bold" Foreground="Red" Canvas.Left="233" Canvas.Top="41"><Run Language="sl-si" Text="GAME OVER"/></TextBlock>
+            <TextBlock x:Name="tblGameOver" TextWrapping="Wrap" FontFamily="Arial Black" FontSize="72" FontWeight="Bold" Foreground="Red" Canvas.Left="233" Canvas.Top="41" Visibility="Collapsed"><Run Language="sl-si" Text="GAME OVER"/></TextBlock>
         </Canvas>
-        <ProgressBar x:Name="prggra" Grid.Column="1" Grid.Row="2" Height="20" ValueChanged="ProgressBar_ValueChanged" Margin="0,44,0,44"/>
         <StackPanel Grid.Column="2" Orientation="Vertical" Grid.Row="2">
             <TextBlock TextWrapping="Wrap" Height="23"><Run Language="sl-si" Text="Izogibaj se"/><LineBreak/><Run Language="sl-si"/></TextBlock>
 
@@ -76,6 +75,7 @@
             </ContentControl>
 
         </StackPanel>
+        <ProgressBar x:Name="Prggra" Grid.Column="1" Grid.Row="2" Margin="0,46,0,48"/>
 
     </Grid>
 </Window>
