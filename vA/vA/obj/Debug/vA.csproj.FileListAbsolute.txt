@@ -1,0 +1,8 @@
+D:\PRO1\vA\vA\bin\Debug\vA.exe.config
+D:\PRO1\vA\vA\bin\Debug\vA.exe
+D:\PRO1\vA\vA\bin\Debug\vA.pdb
+D:\PRO1\vA\vA\obj\Debug\vA.csproj.AssemblyReference.cache
+D:\PRO1\vA\vA\obj\Debug\vA.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\vA\vA\obj\Debug\vA.csproj.CoreCompileInputs.cache
+D:\PRO1\vA\vA\obj\Debug\vA.exe
+D:\PRO1\vA\vA\obj\Debug\vA.pdb
