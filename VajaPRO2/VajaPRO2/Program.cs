@@ -12,13 +12,12 @@ namespace VajaPRO2
         {
             int vsota = 0;
             Random random = new Random();
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 1000; i++)
             {
-                int st = random.Next(0, 100);
-                vsota += st;
-                Console.WriteLine("Naključna številka {0}: {1}", i + 1, st);
+                int st = random.Next(0, 1000);
+                vsota = vsota+st;
             }
-            Console.WriteLine("Vsota teh 100 števil je: {0}", vsota);
+            Console.WriteLine("Povprečje teh 1000 števil je: {0}", vsota/1000);
             Console.ReadLine();
         }
     }
