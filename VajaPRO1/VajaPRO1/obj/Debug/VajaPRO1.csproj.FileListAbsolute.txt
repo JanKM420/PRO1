@@ -1,0 +1,8 @@
+D:\PRO1\VajaPRO1\VajaPRO1\bin\Debug\VajaPRO1.exe.config
+D:\PRO1\VajaPRO1\VajaPRO1\bin\Debug\VajaPRO1.exe
+D:\PRO1\VajaPRO1\VajaPRO1\bin\Debug\VajaPRO1.pdb
+D:\PRO1\VajaPRO1\VajaPRO1\obj\Debug\VajaPRO1.csproj.AssemblyReference.cache
+D:\PRO1\VajaPRO1\VajaPRO1\obj\Debug\VajaPRO1.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaPRO1\VajaPRO1\obj\Debug\VajaPRO1.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaPRO1\VajaPRO1\obj\Debug\VajaPRO1.exe
+D:\PRO1\VajaPRO1\VajaPRO1\obj\Debug\VajaPRO1.pdb
