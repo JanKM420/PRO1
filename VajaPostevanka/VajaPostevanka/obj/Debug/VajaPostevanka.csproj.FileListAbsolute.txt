@@ -1,0 +1,8 @@
+D:\PRO1\VajaPostevanka\VajaPostevanka\bin\Debug\VajaPostevanka.exe.config
+D:\PRO1\VajaPostevanka\VajaPostevanka\bin\Debug\VajaPostevanka.exe
+D:\PRO1\VajaPostevanka\VajaPostevanka\bin\Debug\VajaPostevanka.pdb
+D:\PRO1\VajaPostevanka\VajaPostevanka\obj\Debug\VajaPostevanka.csproj.AssemblyReference.cache
+D:\PRO1\VajaPostevanka\VajaPostevanka\obj\Debug\VajaPostevanka.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaPostevanka\VajaPostevanka\obj\Debug\VajaPostevanka.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaPostevanka\VajaPostevanka\obj\Debug\VajaPostevanka.exe
+D:\PRO1\VajaPostevanka\VajaPostevanka\obj\Debug\VajaPostevanka.pdb
