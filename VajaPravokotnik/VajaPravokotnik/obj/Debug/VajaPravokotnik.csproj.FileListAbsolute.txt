@@ -1,0 +1,8 @@
+D:\PRO1\VajaPravokotnik\VajaPravokotnik\bin\Debug\VajaPravokotnik.exe.config
+D:\PRO1\VajaPravokotnik\VajaPravokotnik\bin\Debug\VajaPravokotnik.exe
+D:\PRO1\VajaPravokotnik\VajaPravokotnik\bin\Debug\VajaPravokotnik.pdb
+D:\PRO1\VajaPravokotnik\VajaPravokotnik\obj\Debug\VajaPravokotnik.csproj.AssemblyReference.cache
+D:\PRO1\VajaPravokotnik\VajaPravokotnik\obj\Debug\VajaPravokotnik.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaPravokotnik\VajaPravokotnik\obj\Debug\VajaPravokotnik.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaPravokotnik\VajaPravokotnik\obj\Debug\VajaPravokotnik.exe
+D:\PRO1\VajaPravokotnik\VajaPravokotnik\obj\Debug\VajaPravokotnik.pdb
