@@ -1,0 +1,8 @@
+D:\PRO1\vajaoseba\vajaoseba\bin\Debug\vajaoseba.exe.config
+D:\PRO1\vajaoseba\vajaoseba\bin\Debug\vajaoseba.exe
+D:\PRO1\vajaoseba\vajaoseba\bin\Debug\vajaoseba.pdb
+D:\PRO1\vajaoseba\vajaoseba\obj\Debug\vajaoseba.csproj.AssemblyReference.cache
+D:\PRO1\vajaoseba\vajaoseba\obj\Debug\vajaoseba.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\vajaoseba\vajaoseba\obj\Debug\vajaoseba.csproj.CoreCompileInputs.cache
+D:\PRO1\vajaoseba\vajaoseba\obj\Debug\vajaoseba.exe
+D:\PRO1\vajaoseba\vajaoseba\obj\Debug\vajaoseba.pdb
