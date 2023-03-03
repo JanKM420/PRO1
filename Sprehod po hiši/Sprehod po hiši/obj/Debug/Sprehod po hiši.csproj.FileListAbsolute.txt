@@ -1,0 +1,8 @@
+D:\PRO1\Sprehod po hiši\Sprehod po hiši\bin\Debug\Sprehod po hiši.exe.config
+D:\PRO1\Sprehod po hiši\Sprehod po hiši\bin\Debug\Sprehod po hiši.exe
+D:\PRO1\Sprehod po hiši\Sprehod po hiši\bin\Debug\Sprehod po hiši.pdb
+D:\PRO1\Sprehod po hiši\Sprehod po hiši\obj\Debug\Sprehod po hiši.csproj.AssemblyReference.cache
+D:\PRO1\Sprehod po hiši\Sprehod po hiši\obj\Debug\Sprehod po hiši.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Sprehod po hiši\Sprehod po hiši\obj\Debug\Sprehod po hiši.csproj.CoreCompileInputs.cache
+D:\PRO1\Sprehod po hiši\Sprehod po hiši\obj\Debug\Sprehod po hiši.exe
+D:\PRO1\Sprehod po hiši\Sprehod po hiši\obj\Debug\Sprehod po hiši.pdb

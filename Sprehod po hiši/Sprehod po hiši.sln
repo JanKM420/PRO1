@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprehod po hiši", "Sprehod po hiši\Sprehod po hiši.csproj", "{525FC4F0-CC79-4F91-8D9C-094E893677AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525FC4F0-CC79-4F91-8D9C-094E893677AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525FC4F0-CC79-4F91-8D9C-094E893677AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525FC4F0-CC79-4F91-8D9C-094E893677AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525FC4F0-CC79-4F91-8D9C-094E893677AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {552737CC-2AA6-4896-B57C-6A9FF18A256B}
+	EndGlobalSection
+EndGlobal
