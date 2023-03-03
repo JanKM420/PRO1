@@ -16,7 +16,7 @@ namespace ConsoleApp1
         public int Delni1
         { get => delni1;
             set{
-                if (value >= 0 && value >= 100)
+                if (value >= 0 && value <= 100)
                     delni1 = value;
                 else
                     throw new Exception("Neveljavna ocena");
@@ -27,8 +27,8 @@ namespace ConsoleApp1
         public int Delni2
         { get => delni2;
             set{
-                if (value >= 0 && value >= 100)
-                    ustna = value;
+                if (value >= 0 && value <= 100)
+                    delni2 = value;
                 else
                     throw new Exception("Neveljevna ocena");
             }
@@ -38,8 +38,8 @@ namespace ConsoleApp1
         public int Seminar
         { get => seminar;
             set{
-                if (value >= 0 && value >= 100)
-                    ustna = value;
+                if (value >= 0 && value <= 100)
+                    seminar = value;
                 else
                     throw new Exception("Neveljevna ocena");
             }
@@ -49,7 +49,7 @@ namespace ConsoleApp1
         public int Ustna
         { get => ustna;
             set{
-                if (value >= 0 && value >= 100)
+                if (value >= 0 && value <= 100)
                     ustna = value;
                 else
                     throw new Exception("Neveljevna ocena");
